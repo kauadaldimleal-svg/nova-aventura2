@@ -1,4 +1,8 @@
 body {
     background-color: aquamarine;
     color: aliceblue;
+    font-family: font-family: "New Amsterdam", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: 1center;
 }
