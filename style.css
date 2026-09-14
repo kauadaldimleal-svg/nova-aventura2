@@ -4,5 +4,11 @@ body {
     font-family: font-family: "New Amsterdam", sans-serif;
     display: flex;
     justify-content: center;
-    align-items: 1center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: azure;
 }
